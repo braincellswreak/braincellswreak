@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m Sarang<br>Building immersive Full Stack Web Applications using Three.js and JavaScript to create interactive 3D experiences.<br>🌱 I’m currently learning: Advanced Three.js techniques, Java backend optimizations, and refining my full-stack architecture.<br><br>👯 Open-source WebXR projects or any innovative 3D web development initiatives.<br><br>🤔 I’m looking for help with: Optimizing shader performance in Three.js and scaling Java-based microservices.<br><br>💬Full-stack development, JavaScript frameworks, or why Three.js is the future of the web.<br><br>📫 Feel free to drop me an email at sarangrajput700@gmail.com.<br><br>😄 He/Him<br><br>⚡ Fun fact: When I'm not debugging code, I’m probably shredding on my electric guitar. I love the technicality of Heavy Metal (huge Ozzy Osbourne fan) but can also switch gears to the soulful grooves of Blues and John Mayer.
+Hi, I’m Sarang<br>Building immersive Full Stack Web Applications using Three.js and JavaScript to create interactive 3D experiences.<br>🌱 I’m currently learning: Advanced Three.js techniques, Java backend optimizations, and refining my full-stack architecture.<br><br>👯 Open-source WebXR projects or any innovative 3D web development initiatives.<br><br>🤔 I’m looking for help with: Optimizing shader performance in Three.js and scaling Java-based microservices.<br><br>💬Full-stack development, JavaScript frameworks and three js.<br><br>📫 Feel free to drop me an email at sarangrajput700@gmail.com.<br><br>😄 He/Him<br><br>⚡ Fun fact: When I'm not debugging code, I’m probably shredding on my electric guitar. I love the technicality of Heavy Metal (huge Ozzy Osbourne fan) but can also switch gears to the soulful grooves of Blues and John Mayer.
 
 
 ## 🌐 Socials:
